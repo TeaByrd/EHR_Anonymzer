@@ -1,7 +1,7 @@
-## EHR_Anonymzer
+# EHR_Anonymzer
 A tool for german electronic health care (ehr) de-identification / anonymization of private content.
 
-# INTRODUCTION
+## INTRODUCTION
 
 This program was created for a Java Programming course at B-IT, Bonn, Germany. 
 Creators: Alex Hoch, Bryce Fransen, Thomas Lordick
@@ -19,7 +19,7 @@ The EHR Anonymizer allows a user to upload a German health .doc/.docx document f
 - Download Ubuntu terminal (if needed; https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) 
 
 
-# INSTALLATION
+## INSTALLATION
 
 - Run Brat server
 - Run the installation file in the EHR directory
@@ -29,13 +29,13 @@ $ ./build.sh
 - In GUI specify the path to Brat data folder
 
 
-# TROUBLESHOOTING & FAQ
+## TROUBLESHOOTING & FAQ
 
 - How do I edit the document in the Brat viewer?
   - You need to log in to edit.
 
 
-# MAINTAINERS
+## MAINTAINERS
 
 Current maintainers:
 - Alex Hoch   --   B-IT, University of Bonn
