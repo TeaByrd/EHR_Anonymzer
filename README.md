@@ -11,7 +11,7 @@ Health records contain a significant amount of data for finding patterns and use
 The EHR Anonymizer allows a user to upload a German health .doc/.docx document for anonymization. It displays the raw text on the left-hand side and a brat viewer of the same text but with labeled entities on the right. Brat is a third party software that runs a Natural Language Processing program to initially annotate potential personal information. Additionally, the user has the ability to tag any word that contains any personal information and saved for annotating future documents.
 
 
-# REQUIREMENTS
+## REQUIREMENTS
 
 - Java (JDK 11)
 - Maven (latest version) (https://maven.apache.org/)
